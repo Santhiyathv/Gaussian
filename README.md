@@ -48,7 +48,8 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]![Alt text](<Screenshot from 2024-12-08 14-13-52.png>)
+![gaussian elimination]!![Uploading Screenshot from 2024-12-15 08-58-32.png…]()
+
 
 
 ## Result:Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.

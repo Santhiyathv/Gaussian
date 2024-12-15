@@ -48,7 +48,8 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]!![Uploading Screenshot from 2024-12-15 08-58-32.png…]()
+![gaussian elimination]!![ALT]![Screenshot from 2024-12-15 08-58-32](https://github.com/user-attachments/assets/22fc6fe4-1e40-4974-90d5-1df3d2b3c1ec)
+
 
 
 
